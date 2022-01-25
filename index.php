@@ -29,7 +29,7 @@ if(isset($_POST['login'])){
 </head>
 
 <body>
-<<<<<<< HEAD
+
     <?php require ("header.php"); ?>
     <h2>Teacher's login page</h2>
 
@@ -44,9 +44,6 @@ if(isset($_POST['login'])){
 <p>First time here? <a href="signup.php"> sign up </a> </p> 
 </form>
     </div>
-=======
-    <h2>This is the teacher's page</h2>
->>>>>>> fc55090bf053e92a2252c7ff18b219c3a27a5259
 </body>
 
 </html>
